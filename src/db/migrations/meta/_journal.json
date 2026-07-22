@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1784756155899,
+      "tag": "0000_tough_ser_duncan",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1784757060520,
+      "tag": "0001_careless_terror",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1784758167722,
+      "tag": "0002_complex_marvel_apes",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1784759394848,
+      "tag": "0003_marvelous_gateway",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1784760435270,
+      "tag": "0004_smart_jocasta",
+      "breakpoints": true
+    }
+  ]
+}
