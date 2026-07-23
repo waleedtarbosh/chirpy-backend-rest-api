@@ -9,7 +9,7 @@
 <h1 align="center">Chirpy — Backend REST API</h1>
 
 <p align="center">
-  <strong>A Twitter-like backend REST API built with TypeScript</strong>
+  <strong>A TypeScript REST API featuring JWT authentication, database migrations with Drizzle ORM, and webhooks.</strong>
 </p>
 
 <p align="center">
